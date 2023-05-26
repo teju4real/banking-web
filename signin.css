@@ -11,7 +11,7 @@ body {
     text-decoration: none;
 }
 
-.navbar {
+.navbar { 
     background: #131313;
     padding: 15px 125px !important;
     z-index: 100;
